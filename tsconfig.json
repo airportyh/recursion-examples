@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["es2015", "es2017"],
+		"sourceMap": true,
+		"forceConsistentCasingInFileNames": true,
+		"noImplicitReturns": false,
+		"noImplicitThis": false,
+		"noImplicitAny": false,
+		"strictNullChecks": true,
+		"suppressImplicitAnyIndexErrors": false,
+		"experimentalDecorators": true,
+		"declaration": false
+	}
+}

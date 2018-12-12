@@ -1,0 +1,14 @@
+* Definition of Recursion?
+* recursive functions
+* recursive structures
+* traverse
+* map / transform
+* filter???
+
+* I do 2 - 3, and then they choose which ones to work on
+
+## Examples
+
+* computation
+* social network / relationships kept in a dictionary
+* rewrite a JavaScript AST (change console.log's to print your name instead)

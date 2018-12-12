@@ -1,0 +1,19 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/esprima": "^4.0.2",
+    "@types/lodash": "^4.14.119",
+    "@types/node": "^10.12.12",
+    "esprima": "^4.0.1",
+    "lodash": "^4.17.11"
+  }
+}
