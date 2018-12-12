@@ -13,3 +13,7 @@ structure.
 
 Read through each example and work through the problems to get the
 most benefit out of this.
+
+## Running the Examples
+
+Use [ts-node](https://www.npmjs.com/package/ts-node) to run these examples.
